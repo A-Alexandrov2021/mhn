@@ -43,13 +43,13 @@ bash $SCRIPTS/install_mongo.sh
 
 mkdir -p /opt
 cd /opt/
-rm -rf /opt/mnemosyne
+#rm -rf /opt/mnemosyne
 git clone https://github.com/A-Alexandrov2021/mnemosyne.git
 cd mnemosyne
 $VIRTUALENV -p $PYTHON env
 . env/bin/activate
 pip install -r requirements.txt
-chmod 755 -R .
+#chmod 755 -R .
 
 IDENT=mnemosyne
 SECRET=`python -c 'import uuid;print str(uuid.uuid4()).replace("-","")'`
