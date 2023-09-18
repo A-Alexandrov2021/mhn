@@ -49,7 +49,7 @@ Install MHN
     
     $ cd /opt/
     $ sudo git clone https://github.com/A-Alexandrov2021/mhn_2.git
-    $ cd mhn/
+    $ cd mhn_2/
 
 Run the following script to complete the installation.  While this script runs,
 you will be prompted for some configuration options.  See below for how this
