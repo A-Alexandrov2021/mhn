@@ -1,7 +1,6 @@
 Modern Honey Network
 
-[![Centos 6](https://github.com/pwnlandia/mhn/actions/workflows/centos6.yml/badge.svg)](https://github.com/pwnlandia/mhn/actions/workflows/centos6.yml)
-[![Ubuntu 16.04](https://github.com/pwnlandia/mhn/actions/workflows/ubuntu1604.yml/badge.svg)](https://github.com/pwnlandia/mhn/actions/workflows/ubuntu1604.yml)
+
 [![Ubuntu 18.04](https://github.com/pwnlandia/mhn/actions/workflows/ubuntu1804.yml/badge.svg)](https://github.com/pwnlandia/mhn/actions/workflows/ubuntu1804.yml)
 ====================
 
@@ -36,7 +35,7 @@ It also allows system administrators to:
 
 ## Installation
 
-- The MHN server is supported on Ubuntu 18.04, Ubuntu 16.04, and Centos 6.9.  
+- The MHN server is supported on Ubuntu 18.04.  
 - Other versions of Linux may work but are generally not tested or supported.
 
 Note: if you run into trouble during the install, please checkout the [troubleshooting guide](https://github.com/Pwnlandia/MHN/wiki/MHN-Troubleshooting-Guide) on the wiki.  If you only want to experiment with MHN on some virtual machines, please check out the [Getting up and Running with Vagrant](https://github.com/Pwnlandia/mhn/wiki/Getting-up-and-running-using-Vagrant) guide on the wiki.
@@ -49,7 +48,7 @@ Install Git
 Install MHN
     
     $ cd /opt/
-    $ sudo git clone https://github.com/pwnlandia/mhn.git
+    $ sudo git clone https://github.com/A-Alexandrov2021/mhn_2.git
     $ cd mhn/
 
 Run the following script to complete the installation.  While this script runs,
