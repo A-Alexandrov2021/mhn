@@ -1,7 +1,7 @@
 Modern Honey Network
 
 
-[![Ubuntu 18.04](https://github.com/A-Alexandrov2021/mhn/actions/workflows/ubuntu1804.yml/badge.svg)](https://github.com/pwnlandia/mhn/actions/workflows/ubuntu1804.yml)
+[![Ubuntu 18.04](https://github.com/pwnlandia/mhn/actions/workflows/ubuntu1804.yml/badge.svg)](https://github.com/pwnlandia/mhn/actions/workflows/ubuntu1804.yml)
 ====================
 
 MHN is a centralized server for management and data collection of honeypots. MHN
