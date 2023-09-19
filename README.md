@@ -14,7 +14,7 @@ honeypot technologies, including [Snort](https://snort.org/),
 
 For questions regarding troubleshooting your installation, please review the
 [MHN Troubleshooting
-Guide](https://github.com/A-Alexandrov2021/mhn/wiki/MHN-Troubleshooting-Guide),
+Guide](https://github.com/pwnlandia/mhn/wiki/MHN-Troubleshooting-Guide),
 search past questions on the [modern-honey-network Google
 Group](https://groups.google.com/forum/#!forum/modern-honey-network), or send
 emails to <modern-honey-network@googlegroups.com>.
